@@ -1,0 +1,16 @@
+MIDlet-Name: GiftMobileApp
+MIDlet-Version: 0.0
+MIDlet-Vendor: <unknown>
+MIDlet-Jar-URL: GiftMobileApp.jar
+MIDlet-Jar-Size: 64745
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: GiftMobileApp.cod
+RIM-COD-Size: 22132
+RIM-COD-Creation-Time: 1335870180
+RIM-COD-Module-Name: GiftMobileApp
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: cd 26 92 e6 9e 54 0b 2b 3a c1 5c b9 1b 58 3e 65 d3 bb a2 b3
